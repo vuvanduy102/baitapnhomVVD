@@ -1,0 +1,8 @@
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.csprojAssemblyReference.cache
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.frmkhachhang.resources
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.Properties.Resources.resources
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.csproj.GenerateResource.cache
+D:\abc\khach_hang\khach_hang\bin\Debug\khach_hang.exe
+D:\abc\khach_hang\khach_hang\bin\Debug\khach_hang.pdb
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.exe
+D:\abc\khach_hang\khach_hang\obj\Debug\khach_hang.pdb

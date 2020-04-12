@@ -1,0 +1,8 @@
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.csprojAssemblyReference.cache
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.frmthuesach.resources
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.Properties.Resources.resources
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.csproj.GenerateResource.cache
+D:\abc\thue_sach\thue_sach\bin\Debug\thue_sach.exe
+D:\abc\thue_sach\thue_sach\bin\Debug\thue_sach.pdb
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.exe
+D:\abc\thue_sach\thue_sach\obj\Debug\thue_sach.pdb
